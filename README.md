@@ -1,2 +1,2 @@
 # mychecksheet
-![jupyter](jupyter.md)
+[jupyter](jupyter.md)
