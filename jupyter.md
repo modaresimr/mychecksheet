@@ -16,5 +16,7 @@ import pixiedust
 
 # Autoreload
 If you edit the code of an imported module or package, you usually need to restart the notebook kernel or use reload() on the specific module. That can be quite annoying. With the autoreload magic command, modules are automatically reloaded before any of their code is executed.
+```
 %load_ext autoreload
 %autoreload 2
+```
